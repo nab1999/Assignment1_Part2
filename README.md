@@ -26,7 +26,11 @@ Output of our flask app can be accessed on the local machine CLI when we send a 
 
 #### Section 3.1.1 (‘docker stop' command to stop a running container):
 
+![image](https://user-images.githubusercontent.com/126570628/227207330-31a18adc-9286-4940-ad91-93201774682d.png)
+
 #### Section 3.1.2 ('docker rm' command to remove a stopped container):
+
+![image](https://user-images.githubusercontent.com/126570628/227207473-47d6e03b-1fcc-4b43-a831-126f0466f15a.png)
 
 #### Section 3.1.3 ('docker logs' command to view the logs of a container):
 
