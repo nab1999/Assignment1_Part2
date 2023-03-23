@@ -308,3 +308,10 @@ The docker update command dynamically updates container configuration. We can us
 
 #### Section 3.2.7 ('docker restart' command to restart a running container):
 
+
+### Step4: (Document Your Results in README.md)
+
+Created a README.md file in “Assignment1_Part2” GitHub repository under the main branch. This file contains the findings for each command used in Part 2 of the assignment. 
+
+### Step5: (Push the codebase for the sample application to the GitHub repository)
+
