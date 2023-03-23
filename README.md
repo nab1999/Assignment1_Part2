@@ -296,6 +296,10 @@ root@ubuntu1:/home/nabeel/assignment1_part1# docker inspect 3cba77cad15b
 
 #### Section 3.2.3 ('docker wait' command to wait for a container to exit and then display its exit code):
 
+When we run this wait command from the command line for the running container, it holds or blocks the terminal and continuously checks for the container status and outputs the status code once the container stops.
+
+![image](https://user-images.githubusercontent.com/126570628/227215473-d939e75d-d71c-466a-9ce8-395328166f91.png)
+
 #### Section 3.2.4 ('docker attach' command to attach local standard input, output, and error streams to a running container):
 
 ![image](https://user-images.githubusercontent.com/126570628/227048290-da90f41f-b137-49ea-b293-3939272b18bd.png)
@@ -311,6 +315,8 @@ The docker update command dynamically updates container configuration. We can us
 ![image](https://user-images.githubusercontent.com/126570628/227048507-55b2d78f-ea06-4c25-b13e-5ce4b12549f1.png)
 
 #### Section 3.2.7 ('docker restart' command to restart a running container):
+
+![image](https://user-images.githubusercontent.com/126570628/227215305-98a4beaa-3c33-4fec-af55-6e7319b2238a.png)
 
 
 ### Step4: (Document Your Results in README.md)
