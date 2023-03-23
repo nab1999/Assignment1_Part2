@@ -315,3 +315,14 @@ Created a README.md file in “Assignment1_Part2” GitHub repository under the 
 
 ### Step5: (Push the codebase for the sample application to the GitHub repository)
 
+Initializing git in “assignment1_part2” directory, and then committing the sample application files to local repository. 
+
+![image](https://user-images.githubusercontent.com/126570628/227203526-791a651f-1c29-4786-a988-d5db297d3150.png)
+
+Then we pushed the codebase for the sample flask application to the GitHub repository under master branch by first setting the remote repository configuration: “git remote add origin https://github.com/nab1999/Assignment1_Part2.git”  and then pushing the local git repository to remote/central/GitHub repository by using the command: “git push -u origin master”. To verify that is has been pushed successfully we can check the files in the GitHub repository in the browser. And to pull the files/repository to our local machine/repository, we used the command “git pull -u origin master”.
+
+#### OUTPUT:
+
+![image](https://user-images.githubusercontent.com/126570628/227203701-de9426a7-7ba3-44fd-b0a3-96a6048c669d.png)
+
+![image](https://user-images.githubusercontent.com/126570628/227203881-de094fcc-7912-407c-aa40-cc03df598a8e.png)
